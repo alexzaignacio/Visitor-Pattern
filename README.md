@@ -11,3 +11,5 @@ SeaBank:
 GoTyme:
    Interest rate: 4.5%
    Insurance: No insurance offered
+
+<img width="2240" height="1456" alt="Blank diagram (9)" src="https://github.com/user-attachments/assets/d872cafc-6a7f-4270-8cb7-2a2020d3db09" />
